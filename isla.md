@@ -14,8 +14,8 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443988180_image.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444000241_image.png)
-![pixar](https://user-images.githubusercontent.com/7074964/199655003-8bad1aee-30e7-4a19-a3fd-a3e7269f2c91.jpg)
 
+![chrome_s7HqTmn7Jf](https://user-images.githubusercontent.com/7074964/199657841-3e1749bd-af46-4ae3-ae3a-d13a4902e643.jpg)
 
 ----------
 
@@ -93,18 +93,18 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ----------
 
+## `‘detailed ink sketch of isla baking’`
+![download (9)](https://user-images.githubusercontent.com/7074964/199651802-fb37552b-a986-455e-83fd-fe237cda624f.png)
+
+----------
+
 ## `'cyberpunk futuristic neon isla, reflective puffy coat'`
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443591302_image.png)
 
 ----------
 
-## `‘detailed ink sketch of isla baking’`
-![download (9)](https://user-images.githubusercontent.com/7074964/199651802-fb37552b-a986-455e-83fd-fe237cda624f.png)
-
-----------
-
-## `‘Fallout icons featuring isla’`
+## `‘fallout icons featuring isla’`
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444189616_image.png)
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444173317_image.png)
