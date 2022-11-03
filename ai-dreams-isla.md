@@ -56,8 +56,9 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ‘isla with her unicorn in a fairytale scene’
 
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444718182_00018-2762205800-a+beautiful+p___.png)
 
+
+![grid2](https://user-images.githubusercontent.com/7074964/199642316-2d76a2ee-2bac-4151-a7d6-3540995d67c9.jpg)
 
 
 ----------
