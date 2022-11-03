@@ -57,6 +57,11 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ---------
 
+## `'isla on the ground looking up lovingly at a floating city in the clouds'`
+![download (13)](https://user-images.githubusercontent.com/7074964/199671996-7eaab866-d126-47b1-9c67-72ea8f3303de.png)
+
+---------
+
 ## `‘oil painting anime key visual of zelda, played by isla’`
 ![chrome_UM5LIiHvHX](https://user-images.githubusercontent.com/7074964/199667832-3455960d-2eb1-49dc-99f7-737d424cc0ad.png)
 
