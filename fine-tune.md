@@ -81,5 +81,5 @@ cyberpunk futuristic neon isla, reflective puffy coat
 
 The combinations are limitless!
 
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444797742_download.png)
+![download](https://user-images.githubusercontent.com/7074964/199642104-ceca1b75-9baf-464e-b142-a4545e9dc2eb.jpg)
 
