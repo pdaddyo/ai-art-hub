@@ -44,6 +44,9 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444327065_image.png)
 
+## `‘happy isla in an illustrative style’`
+
+![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444339275_image.png)
 
 
 ----------
@@ -53,22 +56,18 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443564032_file.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443890597_file.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443925981_file.png)
-----------
-
-## `‘lofi biopunk portrait of isla, phoenix, rainbow, floral’`
-![download (10)](https://user-images.githubusercontent.com/7074964/199654056-9efb57da-0369-4a9c-a1a2-2993b9bb9b24.png)
 
 ---------
 
 ## `‘oil painting anime key visual of zelda, played by isla’`
 ![zelda-grid](https://user-images.githubusercontent.com/7074964/199646476-4b131666-7af8-49c6-9abf-dd8155559841.jpg)
-
 ----------
 
+## `‘lofi biopunk portrait of isla, phoenix, rainbow, floral’`
+![download (10)](https://user-images.githubusercontent.com/7074964/199654056-9efb57da-0369-4a9c-a1a2-2993b9bb9b24.png)
 
-### `‘happy isla in an illustrative style’`
 
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444339275_image.png)
+
 
 
 ----------
