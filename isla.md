@@ -112,14 +112,15 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ## `‘isla as an npc in gta v’`
 ![gta5-in-game](https://user-images.githubusercontent.com/7074964/199644296-4c869ee8-9e98-4b9d-842b-2972b058c3c3.png)
-![gta2](https://user-images.githubusercontent.com/7074964/199644631-1e03d75f-853c-4ecd-b6de-7d47e649464d.png)
 ----------
 
 ## `‘isla as a character in Frozen’`
 ![download (6)](https://user-images.githubusercontent.com/7074964/199649246-2df4a94f-2539-46c7-ac49-2515c0fc5a31.png)
 ![download (7)](https://user-images.githubusercontent.com/7074964/199649278-a8a26a2b-c4fd-4f9e-b897-7d0eb4f11d1d.png)
-![download (8)](https://user-images.githubusercontent.com/7074964/199649335-a420e086-c5c3-42e3-9c22-c5b47a5b51dc.png)
 
+----------
+## '`portrait of isla with psychedelic neon glowing lights!`
+![psych](https://user-images.githubusercontent.com/7074964/199665159-2a4248de-1607-4cfa-b279-7efdfd4c98c7.png)
 
 ----------
 
