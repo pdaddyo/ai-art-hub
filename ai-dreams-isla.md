@@ -40,6 +40,7 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ### `‘isla as character on the simpsons’`
 ![simp](https://user-images.githubusercontent.com/7074964/199645544-7b5b0722-c99f-41d1-99e3-acf8b34af8f0.png)
+![download (4)](https://user-images.githubusercontent.com/7074964/199645633-743cf0c9-c2c7-4fae-8e99-a973385abeb5.png)
 
 ----------
 
