@@ -1,5 +1,5 @@
 # An AI dreams of Isla
-By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness can now be used in creative text prompts to generate art!
+I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used in creative text prompts to generate art!
 
 ----------
 
@@ -14,14 +14,19 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443988180_image.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444000241_image.png)
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444015549_image.png)
+![pixar](https://user-images.githubusercontent.com/7074964/199655003-8bad1aee-30e7-4a19-a3fd-a3e7269f2c91.jpg)
+
 
 ----------
 
-## `‘isla wearing a hat in an illustrative style’`
+## `‘lofi biopunk portrait of isla, phoenix, rainbow, floral’`
+![download (10)](https://user-images.githubusercontent.com/7074964/199654056-9efb57da-0369-4a9c-a1a2-2993b9bb9b24.png)
 
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444327065_image.png)
+----------
 
+## `‘isla as character on the simpsons’`
+![simp](https://user-images.githubusercontent.com/7074964/199645544-7b5b0722-c99f-41d1-99e3-acf8b34af8f0.png)
+![download (4)](https://user-images.githubusercontent.com/7074964/199645633-743cf0c9-c2c7-4fae-8e99-a973385abeb5.png)
 ----------
 
 ## `‘synthwave cinematic portrait of isla’`
@@ -32,9 +37,11 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ----------
 
-## `‘isla as character on the simpsons’`
-![simp](https://user-images.githubusercontent.com/7074964/199645544-7b5b0722-c99f-41d1-99e3-acf8b34af8f0.png)
-![download (4)](https://user-images.githubusercontent.com/7074964/199645633-743cf0c9-c2c7-4fae-8e99-a973385abeb5.png)
+## `‘isla wearing a hat in an illustrative style’`
+
+![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444327065_image.png)
+
+
 
 ----------
 
@@ -70,7 +77,6 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 ## `‘friendly cybernetic cyborg isla, cyberpunk concept art’`
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443571784_image.png)
-
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443582467_image.png)
 
 ----------
@@ -78,10 +84,9 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 ## `‘isla as hello kitty character’`
 ![isla-hello](https://user-images.githubusercontent.com/7074964/199647756-d3c24683-26e3-443f-b0fd-3aa294963de1.png)
 
-
 ----------
 
-### `‘isla with her unicorn in a fairytale scene’`
+### `‘isla and her unicorn in a fairytale scene’`
 
 ![grid2](https://user-images.githubusercontent.com/7074964/199642316-2d76a2ee-2bac-4151-a7d6-3540995d67c9.jpg)
 
@@ -92,14 +97,17 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443591302_image.png)
 
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443679551_grid-0011.jpg)
+----------
+
+## `‘detailed ink sketch of isla baking’`
+![download (9)](https://user-images.githubusercontent.com/7074964/199651802-fb37552b-a986-455e-83fd-fe237cda624f.png)
 
 ----------
 
-## `‘Fallout isla icons’`
+## `‘Fallout icons featuring isla’`
+![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444189616_image.png)
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444173317_image.png)
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444189616_image.png)
 
 ----------
 
@@ -119,4 +127,16 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 The combinations are almost limitless (click to embiggen)!
 
 ![download](https://user-images.githubusercontent.com/7074964/199642104-ceca1b75-9baf-464e-b142-a4545e9dc2eb.jpg)
+
+# With thanks to
+TheLastBen, AUTOMATIC etc (https://github.com/TheLastBen/fast-stable-diffusion)
+
+Deforum crew
+
+[/r/StableDiffusion](https://old.reddit.com/r/StableDiffusion)
+
+and of course [Emad](https://twitter.com/EMostaque) for funding it
+
+----------
+
 
