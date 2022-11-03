@@ -58,6 +58,8 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ---------
 
 ## `‘oil painting anime key visual of zelda, played by isla’`
+![chrome_UM5LIiHvHX](https://user-images.githubusercontent.com/7074964/199667832-3455960d-2eb1-49dc-99f7-737d424cc0ad.png)
+
 ![zelda-grid](https://user-images.githubusercontent.com/7074964/199646476-4b131666-7af8-49c6-9abf-dd8155559841.jpg)
 ----------
 
@@ -121,11 +123,14 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![psych](https://user-images.githubusercontent.com/7074964/199665159-2a4248de-1607-4cfa-b279-7efdfd4c98c7.png)
 ![download (11)](https://user-images.githubusercontent.com/7074964/199666035-25bbfbe3-48d0-46f5-b2ed-dc7b253fb30b.png)
 
-## '`isla in a spacesuit watching giant rockets take off in the distance seen from behind'`
+
 ----------
+
+## '`isla in a spacesuit watching giant rockets take off in the distance seen from behind'`
+
 ![download (12)](https://user-images.githubusercontent.com/7074964/199667082-9eaeeac5-66f3-41c0-848d-0f1d1d44dbc2.png)
 
-
+----------
 
 # With thanks to
 TheLastBen, AUTOMATIC etc (https://github.com/TheLastBen/fast-stable-diffusion)
