@@ -3,10 +3,9 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ----------
 
-## `'a beautiful portrait of a cute magical princess isla'`
+## `'a beautiful portrait of magical princess isla'`
 
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443626875_image.png)
-
 
 
 ----------
@@ -16,7 +15,6 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444000241_image.png)
 
 ![chrome_s7HqTmn7Jf](https://user-images.githubusercontent.com/7074964/199657841-3e1749bd-af46-4ae3-ae3a-d13a4902e643.jpg)
-
 ----------
 
 ## `‘victorian photograph of isla working at school’`
@@ -121,6 +119,7 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ----------
 ## '`portrait of isla with psychedelic neon glowing lights!`
 ![psych](https://user-images.githubusercontent.com/7074964/199665159-2a4248de-1607-4cfa-b279-7efdfd4c98c7.png)
+![download (11)](https://user-images.githubusercontent.com/7074964/199666035-25bbfbe3-48d0-46f5-b2ed-dc7b253fb30b.png)
 
 ----------
 
