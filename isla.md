@@ -121,11 +121,11 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![psych](https://user-images.githubusercontent.com/7074964/199665159-2a4248de-1607-4cfa-b279-7efdfd4c98c7.png)
 ![download (11)](https://user-images.githubusercontent.com/7074964/199666035-25bbfbe3-48d0-46f5-b2ed-dc7b253fb30b.png)
 
+## '`isla in a spacesuit watching giant rockets take off in the distance seen from behind'`
 ----------
+![download (12)](https://user-images.githubusercontent.com/7074964/199667082-9eaeeac5-66f3-41c0-848d-0f1d1d44dbc2.png)
 
-The combinations are almost limitless (click to embiggen)!
 
-![download](https://user-images.githubusercontent.com/7074964/199642104-ceca1b75-9baf-464e-b142-a4545e9dc2eb.jpg)
 
 # With thanks to
 TheLastBen, AUTOMATIC etc (https://github.com/TheLastBen/fast-stable-diffusion)
@@ -137,5 +137,7 @@ Deforum crew
 and of course [Emad](https://twitter.com/EMostaque) for funding it
 
 ----------
+
+[Example prompt grid to test combos](https://user-images.githubusercontent.com/7074964/199642104-ceca1b75-9baf-464e-b142-a4545e9dc2eb.jpg)
 
 
