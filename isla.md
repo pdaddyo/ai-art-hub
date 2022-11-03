@@ -19,14 +19,11 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 
 ----------
 
-## `‘lofi biopunk portrait of isla, phoenix, rainbow, floral’`
-![download (10)](https://user-images.githubusercontent.com/7074964/199654056-9efb57da-0369-4a9c-a1a2-2993b9bb9b24.png)
+## `‘victorian photograph of isla working at school’`
 
-----------
+![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444532840_00377-218899951-victorian+photograph+of+islabarrass+working+at+school+highly+detailed+sharp+focus+Trending+on+Artstation+HQ+deviantart+art.png)
+![download (5)](https://user-images.githubusercontent.com/7074964/199646818-d0e42880-bc83-4389-8ca5-094efed3dc10.png)
 
-## `‘isla as character on the simpsons’`
-![simp](https://user-images.githubusercontent.com/7074964/199645544-7b5b0722-c99f-41d1-99e3-acf8b34af8f0.png)
-![download (4)](https://user-images.githubusercontent.com/7074964/199645633-743cf0c9-c2c7-4fae-8e99-a973385abeb5.png)
 ----------
 
 ## `‘synthwave cinematic portrait of isla’`
@@ -34,6 +31,12 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![isla1](https://user-images.githubusercontent.com/7074964/199643109-9638ea3c-346a-485b-ac26-f11dcc29c5d8.png)
 ![download (2)](https://user-images.githubusercontent.com/7074964/199644453-03f31043-2d85-4bd4-bc44-70f109922512.png)
 
+
+----------
+
+## `‘isla as character on the simpsons’`
+![simp](https://user-images.githubusercontent.com/7074964/199645544-7b5b0722-c99f-41d1-99e3-acf8b34af8f0.png)
+![download (4)](https://user-images.githubusercontent.com/7074964/199645633-743cf0c9-c2c7-4fae-8e99-a973385abeb5.png)
 
 ----------
 
@@ -50,13 +53,10 @@ I've fine-tuned stable diffusion v1.5, so my daughter's likeness can now be used
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443564032_file.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443890597_file.png)
 ![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667443925981_file.png)
-
 ----------
 
-## `‘victorian photograph of isla working at school’`
-
-![](https://paper-attachments.dropboxusercontent.com/s_4CA7879DFC94C70670B62BC56CEAECFF9631B09CE8EA1AF056EA901EF99BFBA7_1667444532840_00377-218899951-victorian+photograph+of+islabarrass+working+at+school+highly+detailed+sharp+focus+Trending+on+Artstation+HQ+deviantart+art.png)
-![download (5)](https://user-images.githubusercontent.com/7074964/199646818-d0e42880-bc83-4389-8ca5-094efed3dc10.png)
+## `‘lofi biopunk portrait of isla, phoenix, rainbow, floral’`
+![download (10)](https://user-images.githubusercontent.com/7074964/199654056-9efb57da-0369-4a9c-a1a2-2993b9bb9b24.png)
 
 ---------
 
