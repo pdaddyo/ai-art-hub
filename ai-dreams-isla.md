@@ -53,7 +53,7 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ---------
 
-## `‘oil painting anime key visual of zelda, played by islabarrass’`
+## `‘oil painting anime key visual of zelda, played by isla’`
 ![zelda-grid](https://user-images.githubusercontent.com/7074964/199646476-4b131666-7af8-49c6-9abf-dd8155559841.jpg)
 
 ----------
@@ -103,9 +103,16 @@ By fine-tuning stable diffusion v1.5 with photos of my daughter, her likeness ca
 
 ----------
 
-## `‘screenshot of isla as npc in gta v’`
+## `‘isla as an npc in gta v’`
 ![gta5-in-game](https://user-images.githubusercontent.com/7074964/199644296-4c869ee8-9e98-4b9d-842b-2972b058c3c3.png)
 ![gta2](https://user-images.githubusercontent.com/7074964/199644631-1e03d75f-853c-4ecd-b6de-7d47e649464d.png)
+----------
+
+## `‘isla as a character in Frozen’`
+![download (6)](https://user-images.githubusercontent.com/7074964/199649246-2df4a94f-2539-46c7-ac49-2515c0fc5a31.png)
+![download (7)](https://user-images.githubusercontent.com/7074964/199649278-a8a26a2b-c4fd-4f9e-b897-7d0eb4f11d1d.png)
+![download (8)](https://user-images.githubusercontent.com/7074964/199649335-a420e086-c5c3-42e3-9c22-c5b47a5b51dc.png)
+
 
 ----------
 
